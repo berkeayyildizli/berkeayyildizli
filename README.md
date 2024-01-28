@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/berkeayyldzl](https://github.com/berkeayyldzl)
 
-- 📫 How to reach me **berkeayyildizli32@gmail.com**
+- 📫 How to reach me: **berkeayyildizli32@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
