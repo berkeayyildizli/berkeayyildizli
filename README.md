@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berkeayyldzl&label=Profile%20views&color=0081d1&style=flat" alt="berkeayyldzl" /> </p>
 
-- 🌱 I’m currently learning **Database Systems and ML**
+- 🌱 I’m currently learning **Swift**
 
 - 👨‍💻 All of my projects are available at [https://github.com/berkeayyldzl](https://github.com/berkeayyldzl)
 
