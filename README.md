@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Berke!</h1>
-<h3 align="center">A senior Computer Science student at Sabanci University</h3>
+<h3 align="center">Computer Science & Engineering Graduate from Sabancı University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berkeayyildizli&label=Profile%20views&color=0081d1&style=flat" alt="berkeayyildizli" /> </p>
 
