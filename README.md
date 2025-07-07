@@ -3,11 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berkeayyildizli&label=Profile%20views&color=0081d1&style=flat" alt="berkeayyildizli" /> </p>
 
-- 🌱 I’m currently learning **Swift**
-
-- 👨‍💻 All of my projects are available at [https://github.com/berkeayyildizli](https://github.com/berkeayyildizli)
-
-- 📫 How to reach me: **berkeayyildizli32@gmail.com**
+- 🎓 Computer Science & Engineering graduate from **Sabancı University**, with a minor in **Decision and Behavior**  
+- 🛠️ Passionate about **mobile app development**, **full-stack systems**, and **data-driven applications**
+- 💼 Previously interned at **Tofaş**, **Intertech**, and **ODE Yalıtım**, working on real-world software and AI projects
+- 🧠 Interested in building intuitive user interfaces and solving complex backend challenges
+- 👨‍💻 You can explore my projects and demos here on [GitHub](https://github.com/berkeayyildizli)
+- 📫 Reach me at **berkeayyildizli32@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
